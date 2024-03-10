@@ -1,22 +1,24 @@
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1200/1*h7J9oHJHj6-66Em9AEaAeA.png"  />
+### Hi 👋, I'm Muhammed Fayaz T S
+
+### Glad to see you here!
+
+I'm a passionate developer fueled by a love for learning and a drive to create impactful web applications. My expertise lies in the MERN stack, allowing me to craft dynamic and engaging experiences for users.
+
+<img align="right" width="200" src="./DevGif.gif" />
+
+### 👩‍💻 About Me:
+
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammedFayazTS.MuhammedFayazTS&left_color=slategrey&right_color=slateblue"  />
-</div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Muhammed Fayaz T S from Kochi,Kerala<br><br>- 🔭 I’m a MERN Stack Developer<br>- 📚 I'm currently learning React JS.<br>- ⚡ In my free time I build some Projects.</p>
+- 🔭 I’m a MERN Stack Developer from Kochi, Kerala, India
+- 📚 Exploring Next.js for building performant web applications
+- 💬 Ask me about anything. I am happy to help
+- 📫 How to reach me: <a href="mailto:muhammedfayazts01@gmail.com" target="blank" >muhammedfayazts01@gmail.com</a>
+- ⚡Actively developing personal projects and contributing to open-source initiatives in my free time.
 
 ###
 
@@ -47,6 +49,8 @@
 </div>
 
 ###
+
+<h3 align="left">🌐 Socials</h3>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
