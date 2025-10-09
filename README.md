@@ -18,12 +18,12 @@ I’m a **Full Stack Developer** with strong expertise in **MERN** (MongoDB, Exp
 I love designing and building **scalable, user-focused web apps** while constantly learning new technologies.
 
 - 📍 Based in **Kochi, Kerala, India**
-- 👨🏻‍💻 **Portfolio:** [Explore my work](https://portfolio-muhammed-fayaz-ts.vercel.app)
+- 👨🏻‍💻 **Portfolio:** [Explore my work](https://muhammed-fayaz-ts.vercel.app)
 - ⚡ Passionate about **open-source contributions & side projects**
 - 💬 Let’s talk about **JavaScript, React, Node.js, Databases, and System Design**
 
 ### 🌟 Recent Projects 
-- 📊 **[Kerala Market Price Dashboard](https://kerala-market-prices-ui.vercel.app)** – A dashboard to track and visualize real-time commodity prices in Kerala.  
+- 📊 **[Kerala Market Price Dashboard](https://kerala-market-prices-ui.vercel.app)** – A dashboard to track and visualize real-time vegitable and fruit prices in Kerala.  
 - 👥 **[User Management](https://github.com/MuhammedFayazTS/User-Management-Frontend.git)** – A complete system for managing users with CRUD operations and authentication.  
 
 
