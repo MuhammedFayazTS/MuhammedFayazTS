@@ -20,7 +20,7 @@ I love designing and building **scalable, user-focused web apps** while constant
 - 📍 Based in **Kochi, Kerala, India**
 - 👨🏻‍💻 **Portfolio:** [Explore my work](https://muhammed-fayaz-ts.vercel.app)
 - ⚡ Passionate about **open-source contributions & side projects**
-- 💬 Let’s talk about **JavaScript, React, Node.js, Databases, and System Design**
+- 💬 Let’s talk about **JavaScript, React, Node.js, Databases, and AI**
 
 ### 🌟 Recent Projects 
 - 📊 **[Kerala Market Price Dashboard](https://kerala-market-prices-ui.vercel.app)** – A dashboard to track and visualize real-time vegitable and fruit prices in Kerala.  
